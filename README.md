@@ -7,7 +7,7 @@ f
 ---  
 l
 ## ⚙️ Setupsc
- c
+ css
 0. Fork this repocm
 1. Go to your repository on GitHub
 2. Click **Settings** → **Actions** → **General**
