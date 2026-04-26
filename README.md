@@ -5,7 +5,7 @@
 A GitHub Actions workflow that lets you download files into your repository just by writing a special commit message — no terminal or command line needed.
 f
 ---  
-l
+ls
 ## ⚙️ Setupsc
  css
 0. Fork this repocm
